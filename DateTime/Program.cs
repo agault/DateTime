@@ -26,7 +26,7 @@ namespace DateTime
             Console.WriteLine(now.ToLongTimeString());
             Console.WriteLine(now.ToShortTimeString());
 
-            //both date and time
+            //both date and time.
             Console.WriteLine(now.ToString("yy-MMM-dd ddd"));
         }
     }
